@@ -1,0 +1,67 @@
+
+.square {
+	background-color: black;
+}
+
+.topRow div {
+	width: 11.1%;
+	float: left;
+	padding-bottom: 11.1%;
+	border: 2px dashed white;
+	clear: right;
+}
+
+
+.secondRow div {
+	width: 11.1%;
+	float: left;
+	padding-bottom: 11.1%;
+	border: 2px dashed white;
+	clear: right;
+}
+
+.thirdRow div {
+	width: 11.1%;
+	float: left;
+	padding-bottom: 11.1%;
+    border: 2px dashed white;
+	clear: right;
+}
+
+.bottomRow div {
+	width: 11.1%;
+	float: left;
+	padding-bottom: 11.1%;
+	border: 2px dashed white;
+	clear: right;
+}
+
+.secondRow {
+	clear: left;
+}
+
+.thirdRow {
+	clear: left;
+}
+
+.bottomRow {
+	clear: left;
+}
+
+button {
+	margin-top: 5px;
+	float: left;
+	clear: left;
+}
+.selected {
+	background-color: red;
+}
+
+.one.test {
+	background-color: blue;
+}
+/*.container {
+	background-color: white;
+	height: 400px;
+	width: 400px;
+}*/
